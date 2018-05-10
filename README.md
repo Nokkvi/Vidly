@@ -2,7 +2,7 @@
 
 ## Running the Application
 
-* Create AppSettings.config on top level of the solution.
+* Create AppSettings.config on Vidly folder.
 * Add the following code: 
   ```html
   <appSettings>
